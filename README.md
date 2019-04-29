@@ -1,1 +1,1 @@
-# JavaScript-With-AsyncAndAwait
+# JavaScript-With-ES6
