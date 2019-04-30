@@ -1,5 +1,3 @@
-import '@babel/polyfill';
-
 const fetchDataPromise = (success = true) => {
   const promise = new Promise((resolve, reject) => {
     if (success) {
