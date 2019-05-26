@@ -1,0 +1,24 @@
+{
+  "name": "Class",
+  "version": "1.0.0",
+  "description": "Unit testing React and Redux with Jest.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ms314006/React-With-Redux-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ms314006/React-With-Redux-Jest/issues"
+  },
+  "homepage": "https://github.com/ms314006/React-With-Redux-Jest#readme",
+  "devDependencies": {
+    "eslint": "^5.15.2",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4"
+  }
+}
